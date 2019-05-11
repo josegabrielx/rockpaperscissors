@@ -1,2 +1,2 @@
 # rockpaperscissors
-It is a challlenge from hpe company
+Game for traditional game 
